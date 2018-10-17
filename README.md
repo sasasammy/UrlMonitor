@@ -2,6 +2,7 @@
 Well ... not ready ... aws monitor URL
 
 # Panda in Python to pull stock ticker from Yahoo Finance
+![](AMZN_chart.JPG)
 
 ```
 ###########################################################################################
