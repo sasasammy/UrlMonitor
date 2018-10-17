@@ -3,7 +3,7 @@ Well ... not ready ... aws monitor URL
 
 # Panda in Python to pull stock ticker from Yahoo Finance
 Here is an example of the output Excel file
-![amzn|513x456, 50%](AMZN_chart.JPG)
+![amzn|512x397,40%](AMZN_chart.JPG)
 
 ## Python source listing
 ```
